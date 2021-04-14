@@ -1,0 +1,2 @@
+spring.application.name=studentInfo
+eureka.client.serviceUrl.defaultZone  = http://localhost:3030/eureka

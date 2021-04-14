@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy package &apos;com.grwts.pojo&apos; to &apos;CollegeManagemnt(Open Fein)/src/main/java/com.grwts&apos;&#x0D;&#x0A;- Original project: &apos;CollegeManagement(restTemplete)&apos;&#x0D;&#x0A;- Destination element: &apos;CollegeManagemnt(Open Fein)/src/main/java/com.grwts&apos;&#x0D;&#x0A;- Original element: &apos;CollegeManagement(restTemplete)/src/main/java/com.grwts.pojo&apos;" description="Copy package" destination="=CollegeManagemnt\(Open Fein)/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.grwts" element1="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.grwts.pojo" flags="589830" fragments="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1616655885184" version="1.0"/>
+</session>
